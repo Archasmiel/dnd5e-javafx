@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class Dnd5backendApplication
+class Application
 
 fun main(args: Array<String>) {
-	runApplication<Dnd5backendApplication>(*args)
+	runApplication<Application>(*args)
 }
